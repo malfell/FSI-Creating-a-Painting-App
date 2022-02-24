@@ -23,6 +23,10 @@ body {
     width: 5%;
 }
 
+.clear-button {
+    border: solid;
+}
+
 .color-choice {
     font-size: 100px;
 }
@@ -38,4 +42,8 @@ body {
 }
 #green {
     color: green;
+}
+
+#purple {
+    color: purple;
 }
